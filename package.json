@@ -1,7 +1,7 @@
 {
-  "author": "",
+  "author": "Lasha Kvantaliani",
   "bugs": {
-    "url": "https://github.com/fuse-box/transformer-boilerplate/issues"
+    "url": "https://github.com/lasharela/fluse-gql-plugin/issues"
   },
   "dependencies": {
     "fuse-box": "^4.0.0-next.417"
@@ -14,13 +14,13 @@
     "ts-jest": "^25.2.1",
     "ts-node": "^8.8.1"
   },
-  "homepage": "https://github.com/fuse-box/transformer-boilerplate#readme",
+  "homepage": "https://github.com/lasharela/fluse-gql-plugin.git#readme",
   "license": "ISC",
-  "main": "index.js",
-  "name": "transformer-boilerplate",
+  "main": "dist/index.js",
+  "name": "fluse-gql-plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fuse-box/transformer-boilerplate.git"
+    "url": "git+https://github.com/lasharela/fluse-gql-plugin.git"
   },
   "scripts": {
     "dist": "ts-node -T fuse.ts dist",
